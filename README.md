@@ -1,4 +1,4 @@
-# Unity Music-Driven Reactive Visualizer
+# Unity Envelope and Beat Mapping Audio Visualiser Project (VR)
 
 A dynamic, music-driven visualizer built in Unity, where lights, shapes, and shaders respond to real-time audio analysis. This project combines 
 envelope following and beat detection techniques to extract audio characteristics to provide an immersive visual experience to music of choice.
